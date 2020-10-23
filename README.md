@@ -7,7 +7,7 @@ Block time | 1 minute
 Consensus mechanism | Proof-of-Stake (POS)
 Maximum supply | 20,000,000
 Premine | 10,000,000
-Coinbase maturity | 10 blocks
+Coinbase maturity | 30 blocks
 Staking reward | 1 EREX + 10 %
 Stake Min Age | 30 Minutes
 MIN tx fee | 0.001 EREX
