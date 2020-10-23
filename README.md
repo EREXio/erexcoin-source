@@ -23,8 +23,17 @@ EREX.io | [ETH](https://erex.io/en/exchange/?pair=ETHEREX)
 EREX.io | [USDT](https://erex.io/en/exchange/?pair=USDTEREX)
 
 
+
+
+
+
+
 Copyright (c) 2009-2015 Bitcoin Developers
+
 Copyright (c) 2011-2012 PPCoin Developers
+
 Copyright (c) 2013-2014 NovaCoin Developers
+
 Copyright (c) 2014-2020 Lanacoin Developers
+
 Copyright (c) 2020 Erexcoin Developers
