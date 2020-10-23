@@ -1,0 +1,9 @@
+Building Erexcoin
+
+See doc/readme-qt.rst for instructions on building Erexcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Erexcoin.
+
+See doc/build-*.txt for instructions on building erexcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Erexcoin.

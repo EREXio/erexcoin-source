@@ -1,0 +1,26 @@
+src/*.exe
+src/erexcoin
+src/erexcoind
+src/test_erexcoin
+src/build.h
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.erexcoin
+#compilation and Qt preprocessor part
+*.qm
+Makefile
+erexcoin-qt
+#resources cpp
+qrc_*.cpp
+#qt creator
+*.pro.user
+#mac specific
+.DS_Store
+build
+
+!src/leveldb/Makefile
